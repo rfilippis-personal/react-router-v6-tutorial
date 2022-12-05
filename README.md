@@ -26,8 +26,6 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
-# or
-vite
 ```
 
 Open [http://localhost:5173](http://localhost:3000) with your browser to see the result.
